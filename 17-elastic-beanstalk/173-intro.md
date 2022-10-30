@@ -1,1 +1,2 @@
-- elastic-beanstalk allow us to deploy
+- elastic-beanstalk allow us to deploy easily
+- so far, there's a lot of manual work
